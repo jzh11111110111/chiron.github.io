@@ -8,8 +8,7 @@ name:
   alternate: '金哲浩'
   pronunciation: 'Jīn Zhé Hào'  # Example: Wáng Wěi
 postnominals:
-  - PhD
-  - MIEEE
+  - 
 status:
   icon: "☕️"
 role: Student
@@ -39,10 +38,11 @@ links:
     url: https://orcid.org/0000-0002-1825-0097
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - The Interaction between Model Theory and Number Theory
+  - Abstract Elementary Classes
+  - Gödel's Works
+  - History of Western Philosophy--From Thales to Heidegger
+  - Dynamic Neural-Symbolic Artificial Intelligence
 
 education:
   - degree: PhD Computer Science
