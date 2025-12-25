@@ -4,8 +4,6 @@
 # Tutorial: https://docs.hugoblox.com/tutorial/
 # Documentation: https://docs.hugoblox.com/
 # ══════════════════════════════════════════════════════════════════════════════
-  # 基础 Favicon（浏览器地址栏图标）
-favicon: "/favicon.ico"
 hugoblox:
   schema: "2.0"
 
