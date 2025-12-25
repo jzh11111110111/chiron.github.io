@@ -28,9 +28,9 @@ image:
 ---
 
 Dynamic Neuro-Symbolic Artificial Intelligence (DyNeSy AI) aims to fulfill three core objectives: 
-- non-probabilistic reasoning
-- logical language learnability
-- direct integration of symbolic systems and machine learning
+- Non-Probabilistic Reasoning
+- Logical Language Learnability
+- Direct Integration of Symbolic Systems and Machine Learning
   
 We are looking for 1 Scientist, 3 Engineers, and 1 Domain-Specific Expert to join the team.
 
