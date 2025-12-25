@@ -2,7 +2,7 @@ schema: hugoblox/author/v1
 slug: me
 is_owner: true
 name:
-  display: Zhehao Jin (Chiron)
+  display: Chiron (Zhehao) Jin
   given: Zhehao
   family: Jin
   alternate: '金哲浩'
