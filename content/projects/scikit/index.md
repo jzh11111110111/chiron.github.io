@@ -11,8 +11,8 @@ tags:
 ---
 
 We will enable artificial intelligence to achieve the following goals:
-1.Realize reasoning without relying on probability and statistics
-2.Make logical languages learnable
-3.Achieve direct integration of symbolic systems and machine learning
+- 1.Realize reasoning without relying on probability and statistics
+- 2.Make logical languages learnable
+- 3.Achieve direct integration of symbolic systems and machine learning
 
 <!--more-->
