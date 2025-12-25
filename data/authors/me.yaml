@@ -12,8 +12,11 @@ status:
   icon: ♾️
 role: Student
 bio: |
-  Chiron is a researcher in Model Theory and Number Theory. His work and 
-  life centers round Truth and truths, just as the avatar shows.
+  Chiron is a researcher in 
+  Model Theory 
+  and Number Theory. 
+  His work and life centers round Truth and truths, 
+  just as the avatar shows.
 
 affiliations:
   - name: East China Normal University
@@ -35,7 +38,7 @@ links:
 interests:
   - Interaction between Model Theory and Number Theory
   - Abstract Elementary Classes and Compact Abstract Theories 
-  - Gödel's Works
+  - Gödel's Works and Classical Metamathematics
   - History of Western Philosophy--from Thales to Heidegger
   - Dynamic Neuro-Symbolic Artificial Intelligence
 
