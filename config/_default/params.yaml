@@ -4,6 +4,7 @@
 # Tutorial: https://docs.hugoblox.com/tutorial/
 # Documentation: https://docs.hugoblox.com/
 # ══════════════════════════════════════════════════════════════════════════════
+favicon: "/favicon.ico"
 hugoblox:
   schema: "2.0"
 
