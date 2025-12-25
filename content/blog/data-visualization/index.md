@@ -27,7 +27,8 @@ image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
 ---
 
-Hugo Blox is designed to give technical content creators a seamless experience. You can focus on the content and Hugo Blox handles the rest.
+Dynamic Neuro-Symbolic Artificial Intelligence (DyNeSy AI) aims to fulfill three core objectives: non-probabilistic reasoning, logical language learnability, and direct integration of symbolic systems and machine learning.
+We are looking for 1 Scientist, 3 Engineers, and 1 Domain-Specific Expert to join the team.
 
 Use popular tools such as Algebraic Semantics, Logical Neural Network, and Transformer Architecture.
 
