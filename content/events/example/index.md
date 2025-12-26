@@ -1,5 +1,5 @@
 ---
-title: "Create Beautiful Presentations with Markdown"
+title: "Lecture on Mathematical Logic for a Weekly Number Theory Seminar in ECNU"
 
 event: HugoBlox Showcase
 event_url: https://hugoblox.com
