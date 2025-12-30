@@ -5,7 +5,7 @@ name:
   display: Zhehao Jin (Chiron)
   given: Zhehao
   family: Jin
-  alternate: '金哲浩'
+  alternate: ['金哲浩', 'Chiron']
   pronunciation: 'Jīn Zhé Hào'  # Example: Wáng Wěi
 postnominals:
 status:
